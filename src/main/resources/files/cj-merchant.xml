@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cj-api>
+    <advertisers total-matched="100" records-returned="3" page-number="1">
+        <advertiser>
+            <advertiser-id>1</advertiser-id>
+            <account-status>Active</account-status>
+            <seven-day-epc>20.00</seven-day-epc>
+            <three-month-epc>25.00</three-month-epc>
+            <language>en</language>
+            <advertiser-name>Sample Advertiser</advertiser-name>
+            <program-url>http://www.Advertiser.com</program-url>
+            <relationship-status>joined</relationship-status>
+            <network-rank>5</network-rank>
+            <primary-category>
+                <parent>HomeAndGarden</parent>
+                <child>Utilities</child>
+            </primary-category>
+        </advertiser>
+        <advertiser>
+            <advertiser-id>2</advertiser-id>
+            <account-status>Active</account-status>
+            <seven-day-epc>50.00</seven-day-epc>
+            <three-month-epc>40.00</three-month-epc>
+            <language>en</language>
+            <advertiser-name>KIWI</advertiser-name>
+            <program-url>http://kiwi.com/</program-url>
+            <relationship-status>joined</relationship-status>
+            <network-rank>5</network-rank>
+            <primary-category>
+                <parent>Travel</parent>
+                <child>Tourism</child>
+            </primary-category>
+        </advertiser>
+        <advertiser>
+            <advertiser-id>3</advertiser-id>
+            <account-status>Active</account-status>
+            <seven-day-epc>13.00</seven-day-epc>
+            <three-month-epc>44.00</three-month-epc>
+            <language>en</language>
+            <advertiser-name>ABC</advertiser-name>
+            <program-url>http://www.abc.com</program-url>
+            <relationship-status>joined</relationship-status>
+            <network-rank>5</network-rank>
+            <primary-category>
+                <parent>Shop</parent>
+                <child>Toys</child>
+            </primary-category>
+        </advertiser>
+    </advertisers>
+</cj-api>

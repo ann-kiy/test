@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cj-api>
+    <links total-matched="1000" records-returned="2" page-number="1">
+        <link>
+            <advertiser-id>1</advertiser-id>
+            <advertiser-name>Sample Advertiser</advertiser-name>
+            <category>Utilities</category>
+            <language>English</language>
+            <description>Get amazing daily deals and save up to 70% off.</description>
+            <destination>http://www.Advertiser.com/</destination>
+            <promotion-end-date>2020-12-30 21:00:00</promotion-end-date>
+            <promotion-start-date>2018-09-18 13:28:00</promotion-start-date>
+            <promotion-type>Sale/Discount</promotion-type>
+            <coupon-code></coupon-code>
+            <relationship-status>joined</relationship-status>
+            <sale-commission>3.00%</sale-commission>
+            <seven-day-epc>3.56</seven-day-epc>
+            <three-month-epc>11.72</three-month-epc>
+            <clickUrl>http://www.Advertiser.com</clickUrl>
+        </link>
+        <link>
+            <advertiser-id>2</advertiser-id>
+            <advertiser-name>KIWI</advertiser-name>
+            <category>Travel</category>
+            <language>English</language>
+            <description>Travel safe. Travel fast with kiwi.</description>
+            <destination>http://kiwi.com/</destination>
+            <promotion-end-date>2020-12-30 21:00:00</promotion-end-date>
+            <promotion-start-date>2018-09-18 13:28:00</promotion-start-date>
+            <promotion-type>Promo</promotion-type>
+            <coupon-code></coupon-code>
+            <relationship-status>joined</relationship-status>
+            <sale-commission>3.00%</sale-commission>
+            <seven-day-epc>3.56</seven-day-epc>
+            <three-month-epc>11.72</three-month-epc>
+            <clickUrl>http://kiwi.com/</clickUrl>
+        </link>
+    </links>
+</cj-api>
